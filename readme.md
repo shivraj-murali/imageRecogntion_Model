@@ -32,8 +32,8 @@ Note: Incase you wish to run it on google collab insted of locally running it in
 - Python 3.7+
 - TensorFlow 2.x
 - NumPy
-- Matplotlib
-- Jupyter Notebook (optional, for exploring the dataset and model interactively)
+- cv2
+- Jupyter Notebook (optional)
 
 ## Installation
 
