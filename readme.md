@@ -22,8 +22,8 @@ Note: Incase you wish to run it on google collab insted of locally running it in
 ## Features
 
 - **Image Preprocessing**: Normalizes and reshapes input images.
-- **Convolutional Neural Network (CNN)**: Utilizes a deep learning model for high accuracy.
-- **Training and Evaluation Scripts**: Scripts to train the model and evaluate its performance.
+- **Multilayer Perceptron**: Utilizes a deep learning model for high accuracy.
+- **Training Script**: Scripts to train the model and evaluate its performance.
 - **Model Saving and Loading**: Functionality to save and load trained models.
 - **Prediction Script**: Predicts the digit in a new image.
 
